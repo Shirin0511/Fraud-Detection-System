@@ -93,7 +93,9 @@ Threshold selection is performed using the **precision–recall curve**, mirrori
 
 ### Confusion Matrix
 
-[[102002 80]
-[ 2890 721]]
+```text
+[[102002  80]
+ [ 2890 721]]
+```
 
 These results are realistic for highly imbalanced fraud datasets and reflect a **precision-first strategy** designed to minimize customer friction while capturing meaningful fraud signals.
