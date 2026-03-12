@@ -22,8 +22,7 @@ This project builds an industry-style fraud detection system using transaction-l
 
 This project uses the **IEEE-CIS Fraud Detection Dataset** from Kaggle.
 
-**Link:**  
-https://www.kaggle.com/competitions/ieee-fraud-detection/data
+**Link:**  https://www.kaggle.com/competitions/ieee-fraud-detection/data
 
 
 
